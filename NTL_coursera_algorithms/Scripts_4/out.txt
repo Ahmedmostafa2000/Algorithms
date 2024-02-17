@@ -1,0 +1,5 @@
+Gamal		12	9	20	
+Ahmad		13	24	22	
+Shady		11	10	17	
+Hassan		21	19	23	
+Akram		15	14	18	
